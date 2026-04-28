@@ -95,7 +95,8 @@ All errors return `{ "error": "message" }` with the appropriate HTTP status code
 
 ## Screenshots
 
-> Add screenshots here after running the app.
+<img width="1359" height="845" alt="image" src="https://github.com/user-attachments/assets/37f8b565-0ef7-429b-ad25-717ee691d0cb" />
+
 
 ## License
 
